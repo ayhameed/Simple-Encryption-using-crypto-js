@@ -1,0 +1,1 @@
+var SimpleCryptoJS = require('simple-crypto-js');
